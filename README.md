@@ -1,15 +1,15 @@
 ## Hi there 👋
-🏆 Durga Sai Bharadwaj Racharla
-Software Engineer | Full-Stack Developer | AI & ML Enthusiast | 📍 Halifax, NS |
+**🏆 Durga Sai Bharadwaj Racharla**
+**Software Engineer** | **Full-Stack Developer** | AI & ML Enthusiast | 📍 Halifax, NS |
 
-🚀 About Me
+**🚀 About Me**
 👋 Hi there! I'm a Software Developer with 3.5 years of experience in full-stack development, specializing in Java, Microservices, JavaScript, React, PostgreSQL, and AWS. I have a passion for AI/ML, optimizing UI/UX and enhancing user retention, and building scalable applications. Currently, I'm enrolled in Nova Scotia Community College pursuing It Programing in AI.🚗💬.
 
 💡 I thrive in Agile environments, love working on high-performance web applications, and constantly explore cutting-edge technologies to enhance user experiences.
 
 You can think about me as Jack of all trades. proficient in building mobile apps and web applications using Android and leading web frameworks.
 
-🛠 Tech Stack
+**🛠 Tech Stack**
 
 - 💻 Languages: Java, Python, JavaScript
 - 🖥 Frontend: React, Next.js(Beginner), Redux, TailwindCSS
@@ -17,6 +17,19 @@ You can think about me as Jack of all trades. proficient in building mobile apps
 - 📦 Databases: PostgreSQL, MySQL, MongoDB, Redis, Superbase
 - ☁️ Cloud & DevOps: CI/CD, Jenkins, Kafka, Docker, AWS (S3, Lambda, DynamoDB, EC2)
 - 🤖 AI/ML:  PyTorch, TensorFlow, Hugging Face, OpenAI, NLP(Spacy), CNN
+
+**💼 Available for Freelancing & Hiring**
+
+💡 Looking for a skilled full-stack developer to build, optimize, or scale your web application? I offer:
+- ✅ Custom web & mobile app development
+- ✅ Backend API development & database optimization
+- ✅ Cloud deployment (AWS, Docker)
+- ✅ AI & machine learning integrations
+
+📩 Let's work together! Contact me via email or LinkedIn:
+
+📧 Email: bharadwajdurgasai@gmail.com
+🔗 LinkedIn: linkedin.com/in/durga-sai-bharadwaj-racharla
 
 <!--
 **wbharath/wbharath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
