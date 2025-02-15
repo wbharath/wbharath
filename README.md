@@ -11,12 +11,12 @@ You can think about me as Jack of all trades. proficient in building mobile apps
 
 🛠 Tech Stack
 
-💻 Languages: Java, Python, JavaScript
-🖥 Frontend: React, Next.js(Beginner), Redux, TailwindCSS
-⚙️ Backend: Node.js, Express.js, Flask
-📦 Databases: PostgreSQL, MySQL, MongoDB, Superbase
-☁️ Cloud & DevOps: AWS (S3, Lambda, DynamoDB, EC2), Docker, CI/CD
-🤖 AI/ML:  PyTorch, TensorFlow, Hugging Face, OpenAI, NLP(Spacy), CNN
+- 💻 Languages: Java, Python, JavaScript
+- 🖥 Frontend: React, Next.js(Beginner), Redux, TailwindCSS
+- ⚙️ Backend: Node.js, Express.js, Flask
+- 📦 Databases: PostgreSQL, MySQL, MongoDB, Superbase
+- ☁️ Cloud & DevOps: AWS (S3, Lambda, DynamoDB, EC2), Docker, CI/CD
+- 🤖 AI/ML:  PyTorch, TensorFlow, Hugging Face, OpenAI, NLP(Spacy), CNN
 
 <!--
 **wbharath/wbharath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
