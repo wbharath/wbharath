@@ -1,7 +1,6 @@
 ## Hi there 👋
 🏆 Durga Sai Bharadwaj Racharla
-Software Engineer | Full-Stack Developer | AI & ML Enthusiast
-📍 Halifax, NS | 📧 bharadwajdurgasai@gmail.com
+Software Engineer | Full-Stack Developer | AI & ML Enthusiast | 📍 Halifax, NS | 📧 bharadwajdurgasai@gmail.com
 
 <!--
 **wbharath/wbharath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
