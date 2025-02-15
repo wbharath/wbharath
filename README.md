@@ -28,9 +28,9 @@ You can think about me as Jack of all trades. proficient in building mobile apps
 
 **📩 Let's work together! Contact me via email or LinkedIn:**
 
-📧 Email: bharadwajdurgasai@gmail.com
-🔗 LinkedIn: [My Linkedin Profile](https://www.linkedin.com/in/durga-sai-bharadwaj-racharla)
-💼 Portfolio: [Portfolio](https://racharlabharadwaj.netlify.app/) 
+- 📧 Email: bharadwajdurgasai@gmail.com
+- 🔗 LinkedIn: [My Linkedin Profile](https://www.linkedin.com/in/durga-sai-bharadwaj-racharla)
+- 💼 Portfolio: [Portfolio](https://racharlabharadwaj.netlify.app/) 
 
 <!--
 **wbharath/wbharath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
