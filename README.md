@@ -17,7 +17,7 @@
 ## 🎯 About Me
 ```typescript
 const bharadwaj = {
-    location: "Halifax, NS 🇨🇦",
+    location: "Toronto,ON, 🇨🇦",
     role: "Software Engineer",
     experience: "3.5+ years",
     education: "IT Programming in AI @ NSCC",
