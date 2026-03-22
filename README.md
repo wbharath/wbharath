@@ -19,7 +19,7 @@
 const bharadwaj = {
     location: "Toronto,ON, 🇨🇦",
     role: "Software Engineer",
-    experience: "3.5+ years",
+    experience: "4.5+ years",
     education: "IT Programming in AI @ NSCC",
     focus: ["Full-Stack Development", "AI/ML Integration", "Cloud Architecture"],
     philosophy: "Jack of all trades, master of building scalable solutions 🚀",
